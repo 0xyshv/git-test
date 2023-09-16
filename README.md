@@ -11,6 +11,3 @@ Change 5 (on feat/change5 branch)
 
 Change 6 (on feat/change6 branch)
 
-Test changes for upstream.
-
-Test changes for push without upstream.
